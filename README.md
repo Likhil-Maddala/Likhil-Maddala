@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Likhil-Maddala
+- 👀 I’m interested in Python Development 
+- 🌱 I’m currently learning AI & ML
+- 💞️ I’m looking to collaborate on ML Projects
+- 📫 Reach me via comments
